@@ -1,0 +1,6 @@
+requests>=2.31,<3
+readability-lxml>=0.8.1,<0.9
+beautifulsoup4>=4.12,<5
+lxml>=5.1,<6
+lxml_html_clean>=0.4,<1
+weasyprint>=62,<69
